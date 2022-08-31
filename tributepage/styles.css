@@ -1,0 +1,63 @@
+img {
+    display: block
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+body {
+    background-color: white; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    width:auto;
+    height: auto;
+}
+header {
+    text-align: center;
+}
+#mainb {
+    background-color: gainsboro;
+    border-radius: 10px;
+}
+#img-div {
+    background-color: white;
+    width: auto;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+h1 {
+    font-size: 250%;
+}
+header {
+    padding-top: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+#tribute-info {
+    text-align: left;
+    width: 650px;
+    margin: 0 auto;
+}
+#list {
+    display: inline-block;
+    text-align: left;
+}
+li {
+    margin: 20px;
+}
+h3 {
+    margin: 40px 0 40px 0;
+    text-align: center;
+}
+#quote {
+    margin-top: 30px;
+}
+#img-caption {
+    margin-bottom: 30px;
+}
+#h3bot {
+    padding-bottom: 30px;
+}
